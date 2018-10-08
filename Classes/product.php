@@ -5,6 +5,8 @@
  * Date: 01.10.2018
  * Time: 12:37
  */
+namespace HTL3R\MegaHamsterCom;
+
 
 abstract class product
 {
